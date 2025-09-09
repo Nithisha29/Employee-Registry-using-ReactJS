@@ -1,3 +1,37 @@
+# Employee Registry 💻
+
+A fully functional React app for managing employees with Create, Read, Update, and Delete (CRUD) operations.  
+Frontend is hosted on **Vercel** and backend on **Render** using JSON Server.
+
+---
+
+## 🚀 Live Demo
+Try the app live here: [Employee Registry](https://employee-registry-using-react-4n2e1kmvx-nithisha.vercel.app)
+
+---
+
+## 🛠 Features
+- Add new employees with photo, name, designation, phone, email, and DOB
+- View employee details
+- Update employee information
+- Delete employees
+- Responsive UI
+
+---
+
+## 🧰 Tech Stack
+- Frontend: React, Axios, Formik, React Router
+- Backend: JSON Server (deployed on Render)
+- Notifications: React Toastify
+- Deployment: Vercel (frontend), Render (backend)
+
+---
+
+## 📂 Installation (for local development)
+1. Clone the repo:
+   ```bash
+   git clone <your-github-repo-url>
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
